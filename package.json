@@ -1,0 +1,15 @@
+{
+  "name": "luck-kyy-baileys",
+  "version": "1.0.0",
+  "description": "Luck Kyy WhatsApp bot powered by Baileys",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "7.0.0-rc13",
+    "pino": "^9.7.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
